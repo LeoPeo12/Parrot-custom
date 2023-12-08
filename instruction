@@ -1,0 +1,4 @@
+install kitty terminal
+
+gogh theme 
+bash -c "$(wget -qO- https://git.io/vQgMr)"
